@@ -1,3 +1,4 @@
 https://github.com/DataScienceHamburg/AppliedNLPMaterial
 python 3.10.11
 conda create -n llm_venv python=3.10.11
+conda activate llm_venv
